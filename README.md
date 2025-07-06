@@ -24,5 +24,5 @@ A robust, feature-rich crypto trading bot using Alpaca's API with support for:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/alpaca-crypto-trading-bot.git
+git clone https://github.com/Puneet0301/alpaca-crypto-trading-bot.git
 cd alpaca-crypto-trading-bot
